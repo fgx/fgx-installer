@@ -23,7 +23,6 @@ Q_OBJECT
 public:
     explicit ServerCall(QObject *parent = 0);
 
-   // MainObject *M;
 
     XStatusBar *statusBar;
 
